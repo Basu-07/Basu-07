@@ -92,6 +92,21 @@ A creative space showcasing my development journey, technical skills, and projec
 </tr>
 </table>
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Basu-07&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basu-07&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Basu-07&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+
 
 ---
 
@@ -100,5 +115,14 @@ A creative space showcasing my development journey, technical skills, and projec
 ### ✨ Code. Create. Innovate.
 
 *Thanks for visiting my profile!*
+
+</div>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=120&section=footer"/>
+
+### Thanks for visiting my GitHub!
+
+**Code. Create. Innovate.**
 
 </div>
