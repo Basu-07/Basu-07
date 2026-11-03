@@ -102,8 +102,6 @@ A creative space showcasing my development journey, technical skills, and projec
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Basu-07&theme=tokyo-night&hide_border=true" />
-
 </div>
 
 
