@@ -34,44 +34,64 @@
 
 </div>
 
-## 🚀 Featured Projects
 
-### 💰 SpendWise
-A personal finance tracker designed to help users manage their money and understand their spending.
+<h2 align="center">🚀 Featured Projects</h2>
 
-- React + TypeScript
-- Supabase
-- AI Scan
-- Financial analytics
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🔗 [Live Demo](https://spendwise-basuu.vercel.app/)
+<h3 align="center">💰 SpendWise</h3>
 
-### 🌐 Portfolio
-My personal developer portfolio showcasing my work, skills, and journey.
+<p align="center">
+Personal Finance Management Platform
+</p>
 
-🔗 [Visit Portfolio](https://portfolio-basuu.vercel.app/)
+<p align="center">
+A smart platform to track expenses, manage finances, and understand spending habits.
+</p>
 
-## 📊 GitHub Statistics
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+</p>
 
-<div align="center">
+<p align="center">
+<a href="https://spendwise-basuu.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basu-07&show_icons=true&theme=tokyonight&hide_border=true)
+</td>
+<td width="50%" valign="top">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basu-07&layout=compact&theme=tokyonight&hide_border=true)
+<h3 align="center">🌐 Developer Portfolio</h3>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Basu-07&theme=tokyonight&hide_border=true)
+<p align="center">
+Personal Portfolio Website
+</p>
 
-</div>
+<p align="center">
+A creative space showcasing my development journey, technical skills, and projects.
+</p>
 
-## 🌐 Connect With Me
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+</p>
 
-<div align="center">
+<p align="center">
+<a href="https://portfolio-basuu.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Basu-07)
+</td>
+</tr>
+</table>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-basuu.vercel.app/)
-
-</div>
 
 ---
 
