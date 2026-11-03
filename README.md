@@ -1,11 +1,8 @@
 
+
 <div align="center">
 
-# BASU-07
-
-### Creative Developer | Building Useful Digital Products
-
-Building modern web experiences with creativity, curiosity, and code.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=220&section=header&text=BASU-07&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creative%20Developer%20%7C%20Building%20Useful%20Digital%20Products&descAlignY=60&descSize=16"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Basu-07&color=8b5cf6&style=flat-square)
 
