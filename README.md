@@ -110,18 +110,7 @@ A modern website experience for a creative agency, focusing on premium visual de
 </tr>
 </table>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Basu-07&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basu-07&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
----
 
 ## 🤝 Let's Connect
 
